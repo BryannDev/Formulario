@@ -1,1 +1,1 @@
-https://formulariobryanndev.netlify.app/
+bryan-form.netlify.app
